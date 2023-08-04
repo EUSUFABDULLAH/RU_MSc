@@ -1,0 +1,38 @@
+>>>Task 1: Variable Manipulation
+  Create two variables, name and age, and assign your name and age to them.
+  Print out a message like: "My name is [name] and I am [age] years old."
+>>>Task 2: Data Types and Type Conversion
+  Create a variable num1 and assign an integer value to it.
+  Create a variable num2 and assign a float value to it.
+  Convert num1 to a float and store it in a new variable num1_float.
+  Convert num2 to an integer and store it in a new variable num2_int.
+  Print out the types and values of all variables.
+>>>Task 3: String Manipulation
+  Create a string variable sentence containing the sentence: "Python programming is fun!"
+    Print the length of the string.
+  Print the 8th character (index 7) in the string.
+  Create a substring from index 0 to 5 and store it in a new variable substring.
+  Concatenate the substring with the string " I enjoy it!" and print the result.
+>>>Task 4: Lists and List Manipulation
+  Create a list fruits with the following items: "apple", "banana", "cherry", "date".
+  Add "grape" to the end of the list.Remove "banana" from the list.
+  Print the length of the list.
+  Create a new list sliced_fruits containing the second and third items from the fruits list.
+  Combine sliced_fruits with a new list extra_fruits containing "kiwi" and "lemon". 
+  Print the combined list.
+>>>Task 5: Conditional Statements
+  Create a variable num and assign an integer value to it.
+  Write a conditional statement to check if num is even or odd. Print the result.
+>>>Task 6: Loops
+  Using a loop, print the numbers from 1 to 10.
+  Using a loop, calculate the sum of numbers from 1 to 100 and print the result.
+>>>Task 7: Functions
+  Write a function calculate_square that takes a number as input and returns its square.
+  Write a function is_prime that takes a number as input and returns whether it's prime or not.
+  Use the above functions to find and print the square of 7 and check if 29 is prime.
+>>>Task 8: Dictionaries
+  Create a dictionary student with keys "name", "age", and "grade". 
+  Assign appropriate values.
+  Add a new key "course" with a value of your choice.
+  Print all the keys in the dictionary.
+  Loop through the dictionary and print all key-value pairs.
